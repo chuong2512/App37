@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
+  m_Name: "S\u1EA3n Ph\u1EA9m"
+  m_EditorClassIdentifier: 
+  name: 
+  infor: "N\u01B0\u1EDBc hoa x\u1ECBn"
+  folderPath: "Assets/N\u01B0\u1EDBc Hoa"
+  SanPham:
+  - ID: 0
+    anh: {fileID: 21300000, guid: 421bad273b42a1241afe98edb5e3ed73, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "10.000.000 \u0111"
+    name: 
+  - ID: 1
+    anh: {fileID: 21300000, guid: 52dd1a86d97a7da44beefebb27b642be, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "580.000 \u0111"
+    name: 
+  - ID: 2
+    anh: {fileID: 21300000, guid: 6879c278da9e8a24786ff792b322a2bc, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "8.000.000 \u0111"
+    name: 
+  - ID: 3
+    anh: {fileID: 21300000, guid: 439ea165e1b4f5a4995fdb1ff499ddad, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "730.000 \u0111"
+    name: 
+  - ID: 4
+    anh: {fileID: 21300000, guid: f36dd0ce648fa5548b0e4a62f0b178c8, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "720.000 \u0111"
+    name: 
+  - ID: 5
+    anh: {fileID: 21300000, guid: 3541fa6eafeb8f547bde964608be5346, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "800.000 \u0111"
+    name: 
+  - ID: 6
+    anh: {fileID: 21300000, guid: 579c9701530c9504ea6bb329c4ae36a0, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "610.000 \u0111"
+    name: 
+  - ID: 7
+    anh: {fileID: 21300000, guid: 6204746176662f24e8fe9acf56c48422, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "260.000 \u0111"
+    name: 
+  - ID: 8
+    anh: {fileID: 21300000, guid: 7e1dcef638cb31848873597f94603be5, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "630.000 \u0111"
+    name: 
+  - ID: 9
+    anh: {fileID: 21300000, guid: 88501fa1f0abecc4a81409eacce31958, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "740.000 \u0111"
+    name: 
+  - ID: 10
+    anh: {fileID: 21300000, guid: cbc08300075971d4fbb7c782003fd3d8, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "5.000.000 \u0111"
+    name: 
+  - ID: 11
+    anh: {fileID: 21300000, guid: e31694531302afe4ea35d2ba9b0b371a, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "240.000 \u0111"
+    name: 
+  - ID: 12
+    anh: {fileID: 21300000, guid: 5c32f133b210422439c487b2b0ddd48a, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "3.000.000 \u0111"
+    name: 
+  - ID: 13
+    anh: {fileID: 21300000, guid: 0c2438c3beb35384f9879b5aa33987bc, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "19.000.000 \u0111"
+    name: 
+  - ID: 14
+    anh: {fileID: 21300000, guid: b8a3c2b35ed568d4e8f7923a42302bb2, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: "N\u01B0\u1EDBc hoa x\u1ECBn"
+    gia: "400.000 \u0111"
+    name: 
